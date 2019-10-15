@@ -19,7 +19,7 @@ swap ip http://192.168.0.110:3333 APP_URL from the .env file to your computer's 
 
 ## Author
 
-👤 **Paulo CézarLima Zampieri &lt;pczampieri@hotmail.com&gt;**
+👤 **Paulo Cézar Lima Zampieri &lt;pczampieri@hotmail.com&gt;**
 
 * Github: [@PCzampieri](https://github.com/PCzampieri)
 
