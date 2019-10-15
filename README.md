@@ -1,4 +1,3 @@
-# meetapp-backend-api
 
 <h1 align="center">Welcome to Meetapp Backend </h1>
 <p>
@@ -11,6 +10,11 @@
 
 ```sh
 yarn
+```
+## Usage
+
+```sh
+swap ip http://192.168.0.110:3333 APP_URL from the .env file to your computer's local ip to generate mobile image preview
 ```
 
 ## Author
