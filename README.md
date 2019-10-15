@@ -16,6 +16,14 @@ yarn
 ```sh
 swap ip http://192.168.0.110:3333 APP_URL from the .env file to your computer's local ip to generate mobile image preview
 ```
+## Run
+
+```sh
+yarn dev
+```
+```sh
+yarn queue
+```
 
 ## Author
 
